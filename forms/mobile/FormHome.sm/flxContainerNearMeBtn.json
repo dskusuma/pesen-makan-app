@@ -3,7 +3,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "100%"
+        "value": "40%"
     },
     "_left_": {
         "type": "string",
@@ -23,40 +23,41 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "sb2f8cca7189434fad09e8601e4a891c",
+    "_skin_": "sf6543be030a4f9d9e4f6c885a53e1a3",
     "_top_": {
-        "type": "number",
-        "value": "0"
+        "type": "string",
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "90%"
     },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.03%"
     },
     "centery": {
         "type": "string",
-        "value": "50%"
+        "value": "23.77%"
     },
     "children": [
-        "flxContainerNearMeBtn",
-        "flxContainerExploreBtn"
+        "NearMeBtn",
+        "NearMeBtnImg",
+        "NearMeBtnLabel"
     ],
     "clipbounds": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxContainerHomeScreen",
+    "id": "flxContainerNearMeBtn",
     "info": null,
     "isvisible": true,
-    "kuid": "dbefede55ae54e2e9f8d1a4856ab9bac",
+    "kuid": "c98013a14a394a85a6017128f961bd34",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "FormHome",
+    "parent": "flxContainerHomeScreen",
     "pf": "FormHome",
     "snapgridsize": 10,
     "snaptogrid": true,
