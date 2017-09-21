@@ -46,7 +46,10 @@
     "children": [
         "imgLogo",
         "labelLogin",
-        "FlexContainer0f2b193c82c3f4c"
+        "LoginScreenUsernameContainer",
+        "LoginScreenPasswordContainer",
+        "LoginScreenLoginButton",
+        "ForgotPasswordButton"
     ],
     "clipbounds": true,
     "containerweight": 100,
