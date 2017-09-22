@@ -45,7 +45,8 @@
     },
     "children": [
         "flxContainerNearMeBtn",
-        "flxContainerExploreBtn"
+        "flxContainerExploreBtn",
+        "LabelHome"
     ],
     "clipbounds": true,
     "containerweight": 100,

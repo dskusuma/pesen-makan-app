@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "60%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "277dp"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sed1d5e9b1c2455ab6c2144424c5b9ff",
+    "_text_": "",
+    "_top_": {
+        "type": "string",
+        "value": "14dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "9%"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "89.81%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "containerId": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
+    "id": "CartButton",
+    "info": null,
+    "isvisible": true,
+    "kuid": "ba5e94c04cdb40e381c010a940eebeb1",
+    "name": "kony.ui.Button",
+    "parent": "flxContainerActionBarRestoran",
+    "pf": "ActionBarRestoran",
+    "wType": "Button",
+    "zindex": 1
+}
