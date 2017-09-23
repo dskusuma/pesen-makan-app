@@ -1,0 +1,58 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizImage2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_base64_": null,
+    "_height_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "167dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
+    "_src_": "imagedrag.png",
+    "_top_": {
+        "type": "string",
+        "value": "81dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "18dp"
+    },
+    "canUpdateUI": true,
+    "containerId": true,
+    "containerweight": 100,
+    "context": {
+        "channel": "mobile",
+        "formID": "FBox0jfdae228b61a4a",
+        "templateType": "segments",
+        "topLevelBox": null
+    },
+    "id": "segmentNearMeAddressImg",
+    "imagescalemode": 1,
+    "info": null,
+    "isSegmentChild": true,
+    "isvisible": true,
+    "kuid": "dd5f8a8c508046a8afe1725f35cad8fd",
+    "name": "kony.ui.Image2",
+    "parent": "FBox0jfdae228b61a4a",
+    "pf": "FBox0jfdae228b61a4a",
+    "srcType": 1,
+    "wType": "Image",
+    "widgetalignment": 5,
+    "zindex": 1
+}

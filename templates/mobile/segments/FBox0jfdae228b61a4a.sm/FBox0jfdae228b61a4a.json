@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "100dp"
+        "value": "150dp"
     },
     "_margin_": [
         0,
@@ -26,23 +26,27 @@
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "segmentMenuImg",
-        "segmentDetailRestoranNamaMenu",
-        "segmentDetailRestoranLabelHarga"
+        "Image0b0462f1fc43543",
+        "segmentNearMe",
+        "segmentNearMeOpenHour",
+        "segmentNearMeAddress",
+        "segmentNearMeOpenHourImg",
+        "segmentNearMeAddressImg",
+        "SeatAvailabilityIndicator"
     ],
     "clipbounds": false,
     "containerId": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "FBox0i548139c3b3e45",
+    "id": "FBox0jfdae228b61a4a",
     "info": null,
     "isGeneratedTemplate": true,
     "isTemplate": true,
     "isvisible": true,
-    "kuid": "f46e88110b5746239fdeec4765d6b57d",
+    "kuid": "b9a70255681942c8a25150b98b4525eb",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "pf": "FBox0i548139c3b3e45",
+    "pf": "FBox0jfdae228b61a4a",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",

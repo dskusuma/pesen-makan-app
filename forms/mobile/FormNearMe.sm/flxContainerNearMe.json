@@ -1,10 +1,9 @@
 {
     "DNDConfig": null,
-    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "35%"
+        "value": "100%"
     },
     "_left_": {
         "type": "string",
@@ -24,7 +23,7 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s2a016ad20de42e9858c145b4fde0e87",
+    "_skin_": "s7eb1c0bf8c04e0db29e0a15ba186d8c",
     "_top_": {
         "type": "string",
         "value": "0dp"
@@ -34,29 +33,34 @@
         "value": "100%"
     },
     "allboxes": [],
-    "autogrowmode": 0,
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
     "children": [
-        "imgThumbnailRestoran"
+        "segmentNearMe"
     ],
     "clipbounds": true,
     "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
     "enablescrolling": true,
-    "id": "flxDetailRestoranThumbnails",
+    "horizontalscrollindicator": true,
+    "id": "flxContainerNearMe",
     "info": null,
     "isvisible": true,
-    "kuid": "jc7712e41d84476b89a7e549b227de5d",
+    "kuid": "fa21e3cacee3435b84aae100163e869b",
     "layouttype": 2,
-    "name": "kony.ui.FlexContainer",
-    "parent": "flxContainerDetailRestoran",
-    "pf": "FormDetailRestoran",
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "FormNearMe",
+    "pf": "FormNearMe",
+    "scrolldirection": 2,
     "snapgridsize": 10,
     "snaptogrid": true,
-    "wType": "FlexContainer",
+    "track": false,
+    "verticalscrollindicator": true,
+    "wType": "FlexScrollContainer",
     "widgetalignment": 1,
     "zindex": 1
 }

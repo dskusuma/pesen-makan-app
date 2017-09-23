@@ -5,7 +5,7 @@
     "__parentReadjusting__": false,
     "_data_": [
         {
-            "Label0f540018aa2ca41": {
+            "segmentDetailRestoranLabelHarga": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
             },
@@ -19,7 +19,7 @@
             }
         },
         {
-            "Label0f540018aa2ca41": {
+            "segmentDetailRestoranLabelHarga": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
             },
@@ -33,7 +33,7 @@
             }
         },
         {
-            "Label0f540018aa2ca41": {
+            "segmentDetailRestoranLabelHarga": {
                 "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
                 "text": "Label"
             },
@@ -75,7 +75,7 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "49.97%"
+        "value": "50.03%"
     },
     "centery": {
         "type": "string",
@@ -83,6 +83,9 @@
     },
     "containerweight": 100,
     "counter": "02",
+    "disabledSkins": {
+        "rowFocusSkin": "sceee7f689c048dbbe013aff5a6b4e72"
+    },
     "focusedindex": null,
     "focuseditem": null,
     "generatedtemplate": "f46e88110b5746239fdeec4765d6b57d",
@@ -115,7 +118,6 @@
     "retainselection": false,
     "rowTemplateId": "f46e88110b5746239fdeec4765d6b57d",
     "rowcounter": 2,
-    "rowfocusskin": "sceee7f689c048dbbe013aff5a6b4e72",
     "rowskin": "s81a7ab656b2448990147e0b5b9de8ae",
     "rowtemplate": "FBox0i548139c3b3e45",
     "screenlevelwidget": false,
@@ -126,7 +128,7 @@
     "selectedindex": null,
     "selectedindices": null,
     "selecteditems": null,
-    "selectedsectionindex": null,
+    "selectedsectionindex": 0,
     "selectionbehavior": "default",
     "separatorcolor": "64646400",
     "separatorrequired": true,
@@ -136,7 +138,7 @@
     "wType": "Segment",
     "widgetalignment": 5,
     "widgetdatamap": {
-        "Label0f540018aa2ca41": "Label0f540018aa2ca41",
+        "segmentDetailRestoranLabelHarga": "segmentDetailRestoranLabelHarga",
         "segmentDetailRestoranNamaMenu": "segmentDetailRestoranNamaMenu",
         "segmentMenuImg": "segmentMenuImg"
     },

@@ -1,0 +1,200 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Image0b0462f1fc43543": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "SeatAvailabilityIndicator": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "near_me_0001s_0000_seatavailablebtn.png"
+            },
+            "segmentNearMe": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeAddress": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeAddressImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "segmentNearMeOpenHour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeOpenHourImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            }
+        },
+        {
+            "Image0b0462f1fc43543": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "SeatAvailabilityIndicator": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "near_me_0001s_0000_seatavailablebtn.png"
+            },
+            "segmentNearMe": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeAddress": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeAddressImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "segmentNearMeOpenHour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeOpenHourImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            }
+        },
+        {
+            "Image0b0462f1fc43543": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "SeatAvailabilityIndicator": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "near_me_0001s_0000_seatavailablebtn.png"
+            },
+            "segmentNearMe": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeAddress": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeAddressImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            },
+            "segmentNearMeOpenHour": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Label"
+            },
+            "segmentNearMeOpenHourImg": {
+                "@class": "com.viz.ide.model.segment.ImageSegmentData",
+                "src": "imagedrag.png"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "autogrowmode": 1,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "02",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b9a70255681942c8a25150b98b4525eb",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "segmentNearMe",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "isvisible": true,
+    "kuid": "j0e5a19979644f09af575470cd84b86c",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom",
+        "vdistance": 1
+    },
+    "parent": "flxContainerNearMe",
+    "pf": "FormNearMe",
+    "retainselection": false,
+    "rowTemplateId": "b9a70255681942c8a25150b98b4525eb",
+    "rowcounter": 2,
+    "rowfocusskin": "sceee7f689c048dbbe013aff5a6b4e72",
+    "rowskin": "s9562746647e4e118163d2d14bb31a65",
+    "rowtemplate": "FBox0jfdae228b61a4a",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionHeaderTemplateId": null,
+    "sectionheaderskin": "s14bd4235a5e4f02978cbb617795069e",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": 0,
+    "selectionbehavior": "default",
+    "separatorcolor": "64646400",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "swipeContext": {
+        "currentPage": 0,
+        "imageWidth": 1080,
+        "widthRatio": 0
+    },
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Image0b0462f1fc43543": "Image0b0462f1fc43543",
+        "SeatAvailabilityIndicator": "SeatAvailabilityIndicator",
+        "segmentNearMe": "segmentNearMe",
+        "segmentNearMeAddress": "segmentNearMeAddress",
+        "segmentNearMeAddressImg": "segmentNearMeAddressImg",
+        "segmentNearMeOpenHour": "segmentNearMeOpenHour",
+        "segmentNearMeOpenHourImg": "segmentNearMeOpenHourImg"
+    },
+    "zindex": 1
+}

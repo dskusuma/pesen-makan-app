@@ -6,10 +6,7 @@
         "type": "ref",
         "value": "preferred"
     },
-    "_left_": {
-        "type": "string",
-        "value": "110dp"
-    },
+    "_left_": "192dp",
     "_margin_": [
         1,
         1,
@@ -22,12 +19,9 @@
         0,
         0
     ],
-    "_skin_": "s6db3ec8bc98461ea28e5830a9977806",
+    "_skin_": "scb59c3235fc472ba0ff13ee5d3e5dc8",
     "_text_": "Label",
-    "_top_": {
-        "type": "string",
-        "value": "60dp"
-    },
+    "_top_": "80dp",
     "_width_": {
         "type": "ref",
         "value": "preferred"
@@ -43,7 +37,7 @@
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0f540018aa2ca41",
+    "id": "segmentNearMeAddress",
     "info": null,
     "ipad": {
         "psp": {
@@ -57,10 +51,10 @@
     },
     "isSegmentChild": true,
     "isvisible": true,
-    "kuid": "de75b6a67e7643f18a6f2725b02c6c5a",
+    "kuid": "f8a31c823abb444780fb80136b87eafa",
     "name": "kony.ui.Label",
-    "parent": "FBox0i548139c3b3e45",
-    "pf": "FBox0i548139c3b3e45",
+    "parent": "FBox0jfdae228b61a4a",
+    "pf": "FBox0jfdae228b61a4a",
     "tooltip": "",
     "wType": "Label",
     "zindex": 1
