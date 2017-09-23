@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "sed1d5e9b1c2455ab6c2144424c5b9ff",
+    "_skin_": "sc31c6d5a9c6478989e82ac0a959f70d",
     "_text_": "",
     "_top_": {
         "type": "number",
@@ -35,9 +35,12 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "90%"
+        "value": "10%"
     },
-    "centery": "74.15%",
+    "centery": {
+        "type": "string",
+        "value": "74.07%"
+    },
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 5,
@@ -45,10 +48,10 @@
         "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
     },
     "displaytext": true,
-    "id": "CartButton",
+    "id": "HomeBtn",
     "info": null,
     "isvisible": true,
-    "kuid": "g531ae9f26a941038d7d886e4bd1c3b1",
+    "kuid": "i6d048e463694c298e45d65f1a928830",
     "name": "kony.ui.Button",
     "parent": "flxContainerActionBarHome",
     "pf": "ActionBarHome",

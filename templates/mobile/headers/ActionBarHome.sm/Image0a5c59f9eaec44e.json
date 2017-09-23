@@ -4,12 +4,12 @@
     "__parentReadjusting__": false,
     "_base64_": null,
     "_height_": {
-        "type": "ref",
-        "value": "preferred"
+        "type": "string",
+        "value": "60dp"
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "60dp"
     },
     "_margin_": [
         0,
@@ -24,41 +24,41 @@
         0
     ],
     "_skin_": "s082eb711f8643d6bf3c2031f0c90278",
-    "_src_": "clem_onojeghuo_183583.jpg",
+    "_src_": "pesenmakan_logo2_primary_orange.png",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "7dp"
     },
     "_width_": {
         "type": "string",
-        "value": "100%"
+        "value": "86dp"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "50%"
+        "value": "50.00%"
     },
     "centery": {
-        "type": "string",
-        "value": "50%"
+        "type": "number",
+        "value": "40"
     },
+    "containerId": true,
     "containerweight": 100,
     "context": {
         "channel": "mobile",
-        "formID": "FormDetailRestoran",
         "platform": "android",
-        "templateType": "forms",
+        "templateType": "headers",
         "topLevelBox": null
     },
-    "id": "Image0jd567ea67e4e41",
+    "id": "Image0a5c59f9eaec44e",
     "imagescalemode": 1,
     "info": null,
     "invokedProperty": "src",
     "isvisible": true,
-    "kuid": "e85766f684004285899e0ccf1450ec24",
+    "kuid": "gea779ba681a4f50abc472025651c0b8",
     "name": "kony.ui.Image2",
-    "parent": "flxDetailRestoranThumbnails",
-    "pf": "FormDetailRestoran",
+    "parent": "flxContainerActionBarHome",
+    "pf": "ActionBarHome",
     "srcType": 1,
     "wType": "Image",
     "widgetalignment": 5,

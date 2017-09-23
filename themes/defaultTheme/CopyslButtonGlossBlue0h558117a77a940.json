@@ -1,6 +1,6 @@
 {
   "android": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "isForked": true,
     "text_shadow": {
@@ -17,7 +17,7 @@
   "border_type": 0,
   "border_width": 0,
   "desktopweb": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "bottom_left_border_color": "ffffffff",
     "bottom_left_border_style": "plain",
@@ -53,7 +53,7 @@
   "font_style": "normal",
   "font_weight": "normal",
   "ipad": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "isForked": true,
     "shadow": {
@@ -72,7 +72,7 @@
     }
   },
   "iphone": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "isForked": true,
     "shadow": {
@@ -92,13 +92,13 @@
   },
   "isDefaultSkin": false,
   "kiosk": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "isForked": true
   },
-  "kuid": "sed1d5e9b1c2455ab6c2144424c5b9ff",
+  "kuid": "s6c43de652614b6a89975ee3817545cc",
   "spaan": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "bottom_left_border_color": "ffffffff",
     "bottom_left_border_style": "plain",
@@ -129,7 +129,7 @@
     "top_right_border_width": 0
   },
   "spaandroidtablet": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "bottom_left_border_color": "ffffffff",
     "bottom_left_border_style": "plain",
@@ -160,7 +160,7 @@
     "top_right_border_width": 0
   },
   "spabb": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "bottom_left_border_color": "ffffffff",
     "bottom_left_border_style": "plain",
@@ -191,7 +191,7 @@
     "top_right_border_width": 0
   },
   "spaip": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "bottom_left_border_color": "ffffffff",
     "bottom_left_border_style": "plain",
@@ -222,7 +222,7 @@
     "top_right_border_width": 0
   },
   "spaipad": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "bottom_left_border_color": "ffffffff",
     "bottom_left_border_style": "plain",
@@ -253,7 +253,7 @@
     "top_right_border_width": 0
   },
   "spawindowstablet": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "bottom_left_border_color": "ffffffff",
     "bottom_left_border_style": "plain",
@@ -284,7 +284,7 @@
     "top_right_border_width": 0
   },
   "spawinphone8": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "bottom_left_border_color": "ffffffff",
     "bottom_left_border_style": "plain",
@@ -315,7 +315,7 @@
     "top_right_border_width": 0
   },
   "tabrcandroid": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "isForked": true,
     "text_shadow": {
@@ -327,17 +327,17 @@
   },
   "wType": "Button",
   "watchos": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "isForked": true
   },
   "windows8": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "isForked": true
   },
   "winphone8": {
-    "background_image": "shopping_bag_primary_color.png",
+    "background_image": "user_primary_color.png",
     "bg_type": "image",
     "isForked": true
   }

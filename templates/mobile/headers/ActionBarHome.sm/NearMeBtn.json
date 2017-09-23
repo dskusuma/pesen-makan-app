@@ -7,8 +7,8 @@
         "value": "35dp"
     },
     "_left_": {
-        "type": "number",
-        "value": "0"
+        "type": "string",
+        "value": "0dp"
     },
     "_margin_": [
         6,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sed1d5e9b1c2455ab6c2144424c5b9ff",
+    "_skin_": "s910f6fd43c04c2791a75128070d33f3",
     "_text_": "",
     "_top_": {
-        "type": "number",
-        "value": "0"
+        "type": "string",
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -35,9 +35,12 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "90%"
+        "value": "50%"
     },
-    "centery": "74.15%",
+    "centery": {
+        "type": "string",
+        "value": "74.07%"
+    },
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 5,
@@ -45,10 +48,10 @@
         "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
     },
     "displaytext": true,
-    "id": "CartButton",
+    "id": "NearMeBtn",
     "info": null,
     "isvisible": true,
-    "kuid": "g531ae9f26a941038d7d886e4bd1c3b1",
+    "kuid": "a9306382a11a442187e56a7aa87af552",
     "name": "kony.ui.Button",
     "parent": "flxContainerActionBarHome",
     "pf": "ActionBarHome",

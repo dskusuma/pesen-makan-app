@@ -30,7 +30,7 @@
     },
     "_width_": {
         "type": "string",
-        "value": "90%"
+        "value": "320dp"
     },
     "allboxes": [],
     "canUpdateUI": true,
@@ -40,7 +40,7 @@
     },
     "centery": {
         "type": "string",
-        "value": "67.14%"
+        "value": "74.55%"
     },
     "children": [
         "exploreBtnImg",

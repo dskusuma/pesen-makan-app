@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "0dp"
+        "value": "30.56%"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s99a29c1802e46a88f0856485e6bc902",
-    "_text_": "HOME",
+    "_skin_": "seaf42b6faff4eb4b81d482a7869addf",
+    "_text_": "Label",
     "_top_": {
         "type": "string",
-        "value": "0dp"
+        "value": "16.00%"
     },
     "_width_": {
         "type": "ref",
@@ -40,18 +40,10 @@
         }
     },
     "canUpdateUI": true,
-    "centerx": {
-        "type": "string",
-        "value": "50%"
-    },
-    "centery": {
-        "type": "string",
-        "value": "50%"
-    },
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "LabelHome",
+    "id": "segmentDetailRestoranNamaMenu",
     "info": null,
     "ipad": {
         "psp": {
@@ -63,11 +55,12 @@
             "wrapping": 2
         }
     },
+    "isSegmentChild": true,
     "isvisible": true,
-    "kuid": "d6b8ce126c2a401cb0e18f0326f30db7",
+    "kuid": "h9450aebc06847af8547a0449bf01925",
     "name": "kony.ui.Label",
-    "parent": "flxContainerActionBarHome",
-    "pf": "ActionBarHome",
+    "parent": "FBox0i548139c3b3e45",
+    "pf": "FBox0i548139c3b3e45",
     "tooltip": "",
     "wType": "Label",
     "zindex": 1

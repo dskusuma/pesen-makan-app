@@ -7,8 +7,8 @@
         "value": "35dp"
     },
     "_left_": {
-        "type": "number",
-        "value": "0"
+        "type": "string",
+        "value": "0dp"
     },
     "_margin_": [
         6,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sed1d5e9b1c2455ab6c2144424c5b9ff",
+    "_skin_": "s507636a7afe4379ae31602b0a5e613f",
     "_text_": "",
     "_top_": {
-        "type": "number",
-        "value": "0"
+        "type": "string",
+        "value": "0dp"
     },
     "_width_": {
         "type": "string",
@@ -35,20 +35,23 @@
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "90%"
+        "value": "30%"
     },
-    "centery": "74.15%",
+    "centery": {
+        "type": "string",
+        "value": "74.17%"
+    },
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 5,
     "disabledSkins": {
-        "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
+        "focusSkin": "sa0584a8702e4bc192eb704f4253acd8"
     },
     "displaytext": true,
-    "id": "CartButton",
+    "id": "ExploreBtn",
     "info": null,
     "isvisible": true,
-    "kuid": "g531ae9f26a941038d7d886e4bd1c3b1",
+    "kuid": "ce1cc586db3448f4bb3064ec51d812b3",
     "name": "kony.ui.Button",
     "parent": "flxContainerActionBarHome",
     "pf": "ActionBarHome",

@@ -4,7 +4,7 @@
     "__parentReadjusting__": false,
     "_height_": {
         "type": "string",
-        "value": "50%"
+        "value": "35dp"
     },
     "_left_": {
         "type": "string",
@@ -22,7 +22,7 @@
         0,
         0
     ],
-    "_skin_": "s28f621855794e499a2c9e39d13e590b",
+    "_skin_": "s6c43de652614b6a89975ee3817545cc",
     "_text_": "",
     "_top_": {
         "type": "string",
@@ -30,26 +30,28 @@
     },
     "_width_": {
         "type": "string",
-        "value": "10%"
+        "value": "33dp"
     },
     "canUpdateUI": true,
     "centerx": {
         "type": "string",
-        "value": "10.22%"
+        "value": "70%"
     },
     "centery": {
         "type": "string",
-        "value": "50.00%"
+        "value": "74.07%"
     },
     "containerId": true,
     "containerweight": 100,
     "contentalignment": 5,
+    "disabledSkins": {
+        "focusSkin": "s1ae931a069c40f4ac73da87a33301f1"
+    },
     "displaytext": true,
-    "focusskin": "s1ae931a069c40f4ac73da87a33301f1",
-    "id": "MenuButton",
+    "id": "AccountBtn",
     "info": null,
     "isvisible": true,
-    "kuid": "g87e1dc35ea34b8fab4301fd088f9791",
+    "kuid": "h970416100dc44fe834d474f6453b428",
     "name": "kony.ui.Button",
     "parent": "flxContainerActionBarHome",
     "pf": "ActionBarHome",

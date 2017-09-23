@@ -6,10 +6,7 @@
         "type": "string",
         "value": "100%"
     },
-    "_left_": {
-        "type": "string",
-        "value": "0dp"
-    },
+    "_left_": "0dp",
     "_margin_": [
         6,
         6,
@@ -24,10 +21,7 @@
     ],
     "_skin_": "sa8e4aaa57d74dc5b9445e0a3730ecca",
     "_text_": "",
-    "_top_": {
-        "type": "string",
-        "value": "0dp"
-    },
+    "_top_": "0dp",
     "_width_": {
         "type": "string",
         "value": "100%"

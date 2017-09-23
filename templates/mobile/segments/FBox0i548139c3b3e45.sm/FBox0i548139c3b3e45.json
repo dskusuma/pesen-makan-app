@@ -2,7 +2,7 @@
     "DNDConfig": null,
     "_height_": {
         "type": "string",
-        "value": "150dp"
+        "value": "100dp"
     },
     "_margin_": [
         0,
@@ -18,32 +18,33 @@
         0
     ],
     "_percent_": true,
-    "_skin_": "s308caecc29e4fd38a457e64353c62a4",
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
     "allboxes": [],
     "autogrowmode": 0,
     "canUpdateUI": true,
     "children": [
-        "CartButton",
-        "Image0a5c59f9eaec44e",
-        "HomeBtn",
-        "ExploreBtn",
-        "AccountBtn",
-        "NearMeBtn"
+        "segmentMenuImg",
+        "segmentDetailRestoranNamaMenu",
+        "Label0f540018aa2ca41"
     ],
-    "clipbounds": true,
+    "clipbounds": false,
     "containerId": true,
     "containerweight": 100,
     "enablescrolling": true,
-    "id": "flxContainerActionBarHome",
+    "id": "FBox0i548139c3b3e45",
     "info": null,
+    "isGeneratedTemplate": true,
+    "isTemplate": true,
     "isvisible": true,
-    "kuid": "ef9a432633514989884c83df5f1e8d2b",
+    "kuid": "f46e88110b5746239fdeec4765d6b57d",
     "layouttype": 2,
     "name": "kony.ui.FlexContainer",
-    "parent": "ActionBarHome",
-    "pf": "ActionBarHome",
+    "pf": "FBox0i548139c3b3e45",
     "snapgridsize": 10,
     "snaptogrid": true,
     "wType": "FlexContainer",
-    "widgetalignment": 5
+    "widgetalignment": 1
 }
