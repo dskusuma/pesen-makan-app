@@ -1,7 +1,6 @@
 {
     "@class": "com.kony.gen.viz.model.component.KVizLabel",
     "DNDConfig": null,
-    "__markedForDelete__": true,
     "__parentReadjusting__": false,
     "_height_": {
         "type": "ref",
@@ -9,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "29dp"
+        "value": "0dp"
     },
     "_margin_": [
         1,
@@ -23,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "sd2fe41adb304ae882eba5fb73694ce6",
-    "_text_": "Payment Method",
+    "_skin_": "s5b895a97ee4495583636bfb08d56cd0",
+    "_text_": "$ 0.0",
     "_top_": {
         "type": "string",
-        "value": "320dp"
+        "value": "0dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,9 +40,17 @@
         }
     },
     "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "32.95%"
+    },
     "containerweight": 100,
-    "contentalignment": 4,
-    "id": "CopyLabel0gc2f478dc3ff49",
+    "contentalignment": 5,
+    "id": "total",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,9 +63,9 @@
         }
     },
     "isvisible": true,
-    "kuid": "e8d3bf2623494e50aebc347476e63a5d",
+    "kuid": "d754dcfdf1c0444aa034a374f30bacab",
     "name": "kony.ui.Label",
-    "parent": "FlexContainer0fbb9b4c5daa042",
+    "parent": "flxContainerTotal",
     "pf": "FormCart",
     "tooltip": "",
     "wType": "Label",
