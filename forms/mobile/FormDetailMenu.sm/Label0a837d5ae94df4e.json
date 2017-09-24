@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s89c6d1561b045a7a47e145a715df4c0",
+    "_text_": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pharetra ut nulla ac imperdiet. Sed sed ante in diam posuere cursus id in lorem. Aliquam molestie est a dignissim aliquet. Proin maximus sollicitudin suscipit. Mauris ac sem ut dolor bibendum aliquam quis non orci. Sed tincidunt hendrerit dui eget condimentum. Etiam pellentesque tellus ac scelerisque pulvinar. Ut faucibus dapibus finibus. Nunc sed ante venenatis magna venenatis interdum nec non ex. Nulla ac orci tempor, cursus felis ac, lobortis ex. Nam molestie eleifend elementum.",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "80%"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "68.82%"
+    },
+    "containerweight": 100,
+    "contentalignment": 5,
+    "id": "Label0a837d5ae94df4e",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "f9a71e0d563c4a45a2ff15f7a6bcc155",
+    "name": "kony.ui.Label",
+    "parent": "flxContainerDetailMenu",
+    "pf": "FormDetailMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}

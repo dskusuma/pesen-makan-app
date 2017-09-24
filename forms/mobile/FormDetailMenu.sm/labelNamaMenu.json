@@ -1,0 +1,73 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizLabel",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        1,
+        1,
+        1,
+        1
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "sd0dea110b0e46349004ca2821e84073",
+    "_text_": "namamenu",
+    "_top_": {
+        "type": "string",
+        "value": "140dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_wrapping_": 2,
+    "android": {
+        "textStyle": {
+            "letterSpacing": 0,
+            "strikeThrough": false
+        }
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "25.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "35.42%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "id": "labelNamaMenu",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "iphone": {
+        "psp": {
+            "wrapping": 2
+        }
+    },
+    "isvisible": true,
+    "kuid": "d6fa4f9b24024f46a671e5c8d994d0cf",
+    "name": "kony.ui.Label",
+    "parent": "flxContainerDetailMenu",
+    "pf": "FormDetailMenu",
+    "tooltip": "",
+    "wType": "Label",
+    "zindex": 1
+}
