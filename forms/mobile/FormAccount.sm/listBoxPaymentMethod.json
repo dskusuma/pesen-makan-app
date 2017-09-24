@@ -1,0 +1,93 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizListBox",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "7.17%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5.32%"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_placeholder_": "",
+    "_skin_": "s60a5d2ecc954bc8adc6883aabeb6e2a",
+    "_top_": {
+        "type": "string",
+        "value": "33.69%"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "android": {
+        "psp": {}
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "36.92%"
+    },
+    "containerweight": 100,
+    "contentalignment": 4,
+    "context": {
+        "channel": "mobile",
+        "formID": "FormAccount",
+        "templateType": "forms",
+        "topLevelBox": null
+    },
+    "disabledSkins": {
+        "placeholderSkin": "se8ba5b3adef4a17b117708d2b726b8e"
+    },
+    "groupcells": false,
+    "id": "listBoxPaymentMethod",
+    "info": null,
+    "isvisible": true,
+    "kuid": "a9c53dd5d4c3454295ab3233df778446",
+    "masterdata": [
+        [
+            "lb1",
+            "Listbox One"
+        ],
+        [
+            "lb2",
+            "Listbox Two"
+        ],
+        [
+            "lb3",
+            "Listbox Three"
+        ]
+    ],
+    "name": "kony.ui.ListBox",
+    "parent": "flxContainerAccount",
+    "pf": "FormAccount",
+    "selectedkey": null,
+    "selectedkeys": null,
+    "selectedkeyvalue": null,
+    "selectedkeyvalues": null,
+    "size": 18,
+    "viewconfig": {
+        "toggleViewConfig": {
+            "viewStyle": 0
+        }
+    },
+    "viewtype": 0,
+    "wType": "ListBox",
+    "zindex": 1
+}
