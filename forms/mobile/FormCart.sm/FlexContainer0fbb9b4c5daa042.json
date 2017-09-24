@@ -1,0 +1,86 @@
+{
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 6,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_percent_": true,
+    "_skin_": "s15fb065737e49c28f58dcb2da1bd002",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "100%"
+    },
+    "allboxes": [],
+    "allowhorizontalbounce": false,
+    "allowverticalbounce": true,
+    "bounces": true,
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "50.00%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "50.02%"
+    },
+    "children": [
+        "Image0f7f4bf1fad8145",
+        "Label0a79ee1518bb545",
+        "Label0d4a15b99a0ea49",
+        "Label0f60e479c73eb4c",
+        "CopyLabel0f02204abdfca43",
+        "CopyLabel0ic2668cbbb5a4e",
+        "CopyLabel0gc2f478dc3ff49",
+        "Label0j47404eb2ed242",
+        "CopyLabel0ie377662997c4d",
+        "CopyLabel0ha642d34b3434c",
+        "CopyLabel0b2bf459253dd43",
+        "Switch0ef4df186f1f647"
+    ],
+    "clipbounds": true,
+    "containerweight": 100,
+    "decelerat": false,
+    "dragg": false,
+    "enablescrolling": true,
+    "horizontalscrollindicator": true,
+    "id": "FlexContainer0fbb9b4c5daa042",
+    "info": null,
+    "isvisible": true,
+    "kuid": "gbca17c0de2347d68aa142cbeb9a331a",
+    "layouttype": 2,
+    "name": "kony.ui.FlexScrollContainer",
+    "pagingenabled": false,
+    "parent": "FormCart",
+    "pf": "FormCart",
+    "scrolldirection": 2,
+    "snapgridsize": 10,
+    "snaptogrid": true,
+    "track": false,
+    "verticalscrollindicator": true,
+    "vizProps": {},
+    "wType": "FlexScrollContainer",
+    "widgetalignment": 1,
+    "zindex": 1
+}

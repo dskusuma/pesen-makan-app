@@ -1,0 +1,64 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizSwitch",
+    "DNDConfig": null,
+    "__markedForDelete__": true,
+    "__parentReadjusting__": false,
+    "_height_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s95dffbaa4c3450eba0eafbf5763e9bd",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "ref",
+        "value": "preferred"
+    },
+    "canUpdateUI": true,
+    "centerx": {
+        "type": "string",
+        "value": "78.70%"
+    },
+    "centery": {
+        "type": "string",
+        "value": "31.54%"
+    },
+    "containerweight": 100,
+    "id": "Switch0ef4df186f1f647",
+    "info": null,
+    "isvisible": true,
+    "kiosk": {
+        "render": false
+    },
+    "kuid": "a703ffaeb5014aabb50f7975ba13095b",
+    "leftsidetext": "Pre Order",
+    "name": "kony.ui.Switch",
+    "onslide": null,
+    "osPlatform": "android",
+    "osVersion": "iOS7",
+    "parent": "FlexContainer0fbb9b4c5daa042",
+    "pf": "FormCart",
+    "rightsidetext": "Ordinary Order",
+    "selectedindex": 0,
+    "wType": "Switch",
+    "widgetalignment": 5,
+    "zindex": 1
+}
