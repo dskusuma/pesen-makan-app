@@ -52,7 +52,8 @@
         "OpenHourIndicatorTxt",
         "flxContainerSearchQuery",
         "DetailRestoranCategory",
-        "segmentDetailRestoran"
+        "segmentDetailRestoran",
+        "orderSeatButton"
     ],
     "clipbounds": true,
     "containerweight": 100,
